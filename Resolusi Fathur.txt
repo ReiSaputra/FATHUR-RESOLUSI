@@ -1,6 +1,14 @@
 RESOLUSI:
 -Jago Gitar
+  -Belajar Chord
+  -Latihan setiap Malam
 -Jago Gambar
+  -Latihan Shape
+  -Latihan value
 -Jago Coding
+  -Latihan GIT
+  -Latihan GITHUB
 -Jago Lari
+  -Lari Minimal 5km
 -Jago Editing
+  -Belajar Desain Grafis
